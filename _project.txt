@@ -1,4 +1,5 @@
 Here, I will put all code in sequence.
 
 1 Info for Python
-2 print Hello world
+2 Print Hello world
+3 Comments
