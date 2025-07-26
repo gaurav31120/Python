@@ -1,0 +1,11 @@
+4 Variables
+
+Variables are used as a storage to store things in python.
+We can write anything as a variable name.
+Eg. Name = Gaurav
+Age = 12
+
+Do not use these:
+ You can not use numbers at variable start
+ You can not use spaces in variables.
+ You should not use special characters in variables except underscore (_)
