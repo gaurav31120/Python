@@ -9,3 +9,13 @@ Do not use these:
  You can not use numbers at variable start
  You can not use spaces in variables.
  You should not use special characters in variables except underscore (_)
+
+ ------------------------------------------------------------
+
+5 Naming conventions
+
+You can write variables in python using 3 ways
+
+Camel case - gauravKumar
+Pascal case -GauravKumar
+Snake case - gaurav_kumar
