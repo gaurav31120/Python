@@ -5,3 +5,4 @@ Here, I will put all code in sequence.
 3 Comments
 4 Variables
 5 Naming conventions
+6 Data Types

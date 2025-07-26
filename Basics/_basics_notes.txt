@@ -19,3 +19,29 @@ You can write variables in python using 3 ways
 Camel case - gauravKumar
 Pascal case -GauravKumar
 Snake case - gaurav_kumar
+
+-----------------------------------------------------------------
+6 Data Types
+
+Data types are the things we store in Variables and it
+defines what data type variables are.
+Python has built-in data types for different kinds of data.
+
+Numbers:
+
+    1 Integer - All the numbers excluding decimal places and fraction.
+    2 Float - All the decimal numbers and fraction values are Float.
+    3 Complex - Numbers with real and imaginary parts are complex.
+
+Strings:
+    4 Strings - This is used to store anything in python, literally anything
+        that are available on your keyboard.
+        You have to use quotes to store anything and it will be
+        considered as string. You can use double Quotes (“”) or
+        single quotes (‘’) to store both works same.
+
+Boolean
+    5 Boolean - Theres nothing much to say this is the data type which
+        will and always give the result of True and False.
+
+----------------------------------------------------------------------
